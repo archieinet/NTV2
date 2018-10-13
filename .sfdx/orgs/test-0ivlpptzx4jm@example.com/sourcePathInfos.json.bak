@@ -9,7 +9,7 @@
             "changeTime": 1539400293976,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1539400293976,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1539404047061,
             "changeTime": 1539404047061,
-            "contentHash": "29447785d6fffb1bcf789425fe3f0a54e897afdc"
+            "contentHash": "29447785d6fffb1bcf789425fe3f0a54e897afdc",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -52,7 +52,7 @@
             "changeTime": 1539403286389,
             "contentHash": "45f64e113b998b02b91cd004ba75bccb65468693",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -67,7 +67,7 @@
             "changeTime": 1539403286404,
             "contentHash": "3730c2b4f1901c1157516e9a2dd9bb880a85ec40",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -82,7 +82,7 @@
             "changeTime": 1539403286404,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -97,7 +97,7 @@
             "changeTime": 1539403286389,
             "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -112,7 +112,7 @@
             "changeTime": 1539403286389,
             "contentHash": "1f57c64d9ddf638949b6d58e744e0954a31551dd",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -127,7 +127,7 @@
             "changeTime": 1539403286404,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -142,7 +142,7 @@
             "changeTime": 1539403286404,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -157,7 +157,7 @@
             "changeTime": 1539403286404,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -172,7 +172,7 @@
             "changeTime": 1539403286404,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -187,7 +187,7 @@
             "changeTime": 1539403286404,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -202,7 +202,7 @@
             "changeTime": 1539403286404,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -217,7 +217,7 @@
             "changeTime": 1539400293976,
             "contentHash": "451afde4276cf7c93fd5f7232d6a25ae7ec18d8e",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -232,7 +232,7 @@
             "changeTime": 1539400293976,
             "contentHash": "22f59939286b62042b49fdd5a288118f27df34c5",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -247,7 +247,7 @@
             "changeTime": 1539400293976,
             "contentHash": "e74bdedac9f3ec48fd6432c9fe2c90ffbcdeb6d9",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -262,7 +262,7 @@
             "changeTime": 1539400293976,
             "contentHash": "9bdee29a054c2f5f4b2afa356c575cef28d6f5f4",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -270,16 +270,14 @@
     [
         "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\objects\\CaseService__c\\CaseService__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\objects\\CaseService__c\\CaseService__c.object-meta.xml",
             "isDirectory": false,
-            "size": 2249,
-            "modifiedTime": 1539400293976,
-            "changeTime": 1539400293976,
-            "contentHash": "c0cb6b2c90002f00d31c5dee71f9845b2dfa8562",
             "isMetadataFile": true,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 2242,
+            "modifiedTime": 1539461056652,
+            "changeTime": 1539461056652,
+            "contentHash": "fd07448abd3aae667ca01b5bdd7d25cc5c1a71f7"
         }
     ],
     [
@@ -292,7 +290,7 @@
             "changeTime": 1539400293976,
             "contentHash": "2af60750b642e34ff0003963b2c207da3f0ad03f",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -307,7 +305,7 @@
             "changeTime": 1539400293976,
             "contentHash": "e7e387b2d19515779e0b6d8248edfe2c4b89c8db",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -322,7 +320,7 @@
             "changeTime": 1539400293976,
             "contentHash": "4698b324717b621a43e7dfe1393deda8d42b5556",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -337,7 +335,7 @@
             "changeTime": 1539400293976,
             "contentHash": "493f23dd0e484ebf0ee2a0018cdc44efee91adda",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -352,7 +350,7 @@
             "changeTime": 1539400293976,
             "contentHash": "246a8decd1c789bdd817e59b0791e8d1462ef5b3",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -367,7 +365,7 @@
             "changeTime": 1539400293976,
             "contentHash": "ecb7f084c4c06d90226c3ce9b2b2ba0f7824d404",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -382,7 +380,7 @@
             "changeTime": 1539400293976,
             "contentHash": "dfc7d809ff26e15c2d0e55288ad4b2c0afd50ff8",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -397,7 +395,7 @@
             "changeTime": 1539400293976,
             "contentHash": "80e898ae336ed491669eb7e11e83072fb21b74b3",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -412,7 +410,7 @@
             "changeTime": 1539400293976,
             "contentHash": "e4f51b1a506ca3fa61f008ccbcbf42f1cf8c4679",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -427,7 +425,7 @@
             "changeTime": 1539400293976,
             "contentHash": "3246c78de7a255454441d82f4ef38f652c0692d6",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -442,7 +440,7 @@
             "changeTime": 1539400293976,
             "contentHash": "dcecab4a0ae9d1d2e32fc86184b97aef3543b750",
             "isMetadataFile": true,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -457,7 +455,7 @@
             "changeTime": 1539400404646,
             "contentHash": "16627025378066f0a877968efd7b5aef550bd0ca",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -465,40 +463,40 @@
     [
         "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\classes\\CaseServiceController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\classes\\CaseServiceController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1539404047061,
             "changeTime": 1539404047061,
-            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\classes\\CaseServiceController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\classes\\CaseServiceController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 52,
             "modifiedTime": 1539404047061,
             "changeTime": 1539404047061,
-            "contentHash": "522dbdde0f0b4fd530578985e1dac3d79d421d7a"
+            "contentHash": "522dbdde0f0b4fd530578985e1dac3d79d421d7a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1539404047061,
             "changeTime": 1539404047061,
-            "contentHash": "c46f7acc61add3e17c5114d5486bb7b8028cd911"
+            "contentHash": "c46f7acc61add3e17c5114d5486bb7b8028cd911",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]

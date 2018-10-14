@@ -17,6 +17,7 @@ public with sharing class CaseServiceController {
             model.plAcctType= getPickList(CaseService__c.Account_Type__c.getDescribe().getPickListValues());
             model.plFundype = getPickList(CaseService__c.Funding_Type__c.getDescribe().getPickListValues());
             model.plPriorityType = getPickList(CaseService__c.Priority__c.getDescribe().getPickListValues());
+            // system.debug(model);
         return model;
     }
 

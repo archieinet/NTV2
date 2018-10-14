@@ -48,13 +48,12 @@
             "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1539403286389,
-            "changeTime": 1539403286389,
-            "contentHash": "45f64e113b998b02b91cd004ba75bccb65468693",
+            "modifiedTime": 1539466411718,
+            "changeTime": 1539466411718,
+            "contentHash": "7bb1002f62aa70db9d0e486c50bd3cd9aaf6ae44",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -92,14 +91,13 @@
         {
             "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\requestForService\\requestForService.cmp",
             "isDirectory": false,
-            "size": 37,
-            "modifiedTime": 1539403286389,
-            "changeTime": 1539403286389,
-            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "size": 243,
+            "modifiedTime": 1539468143792,
+            "changeTime": 1539468143792,
+            "contentHash": "482557e97f6485a90d91803c992bf5178c3edacc",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -167,29 +165,27 @@
         {
             "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\requestForService\\requestForServiceController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1539403286404,
-            "changeTime": 1539403286404,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 92,
+            "modifiedTime": 1539467941581,
+            "changeTime": 1539467941581,
+            "contentHash": "eb0e3de668ccb21eb4a72c3abbeacda0c610932a",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\requestForService\\requestForServiceHelper.js",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\requestForService\\requestForServiceHelper.js",
             "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1539403286404,
-            "changeTime": 1539403286404,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 540,
+            "modifiedTime": 1539474172598,
+            "changeTime": 1539474172598,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "f609cda9b6fa5a94adf83b32a01001add2265eae"
         }
     ],
     [
@@ -270,14 +266,14 @@
     [
         "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\objects\\CaseService__c\\CaseService__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\objects\\CaseService__c\\CaseService__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2242,
             "modifiedTime": 1539461056652,
             "changeTime": 1539461056652,
-            "contentHash": "fd07448abd3aae667ca01b5bdd7d25cc5c1a71f7"
+            "contentHash": "fd07448abd3aae667ca01b5bdd7d25cc5c1a71f7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -478,10 +474,10 @@
         {
             "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\classes\\CaseServiceController.cls",
             "isDirectory": false,
-            "size": 52,
-            "modifiedTime": 1539404047061,
-            "changeTime": 1539404047061,
-            "contentHash": "522dbdde0f0b4fd530578985e1dac3d79d421d7a",
+            "size": 1400,
+            "modifiedTime": 1539473165808,
+            "changeTime": 1539473165808,
+            "contentHash": "722f61ac4985f91f73a78fd10620da98f0f2ef02",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -496,6 +492,84 @@
             "changeTime": 1539404047061,
             "contentHash": "c46f7acc61add3e17c5114d5486bb7b8028cd911",
             "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceAppEvent",
+        {
+            "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceAppEvent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539465762889,
+            "changeTime": 1539465762889,
+            "contentHash": "1223db2ca831d7262e4bf46a10901edd1e544daa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent",
+        {
+            "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539466411722,
+            "changeTime": 1539466411722,
+            "contentHash": "efa6886b191295bb2c819d45e6dc278635e32c63",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceAppEvent\\CaseServiceAppEvent.evt",
+        {
+            "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceAppEvent\\CaseServiceAppEvent.evt",
+            "isDirectory": false,
+            "size": 76,
+            "modifiedTime": 1539465787482,
+            "changeTime": 1539465787482,
+            "contentHash": "075b4de476821a5639121e6c681afb1971614fea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceAppEvent\\CaseServiceAppEvent.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceAppEvent\\CaseServiceAppEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1539465762889,
+            "changeTime": 1539465762889,
+            "contentHash": "c843ae44a84527ddcc40bb63ccc503468928d9cc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent\\CaseServiceCompEvent.evt",
+        {
+            "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent\\CaseServiceCompEvent.evt",
+            "isDirectory": false,
+            "size": 530,
+            "modifiedTime": 1539466783492,
+            "changeTime": 1539466783492,
+            "contentHash": "44e04f4dc1998d9b7b7f40226f7c494fe53a2267",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent\\CaseServiceCompEvent.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Archie\\Documents\\vs-code-projects\\sfdx 2018\\N0thernTrustV2\\NTV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent\\CaseServiceCompEvent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1539466411722,
+            "changeTime": 1539466411722,
+            "contentHash": "a9344d849f5d6e4af1c5097a0b4bc68d6eb7a8ac",
+            "isMetadataFile": true,
             "state": "u"
         }
     ]

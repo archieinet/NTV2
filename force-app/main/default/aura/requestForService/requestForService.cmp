@@ -1,3 +1,7 @@
-<aura:component>
+<aura:component implements="force:appHostable" controller="CaseServiceController">
+
+    <aura:RegisterEvent name="cmdEvt" type="c:CaseServiceAppEvent" />
+    <aura:handler name="init" value="{!this}" action="{!c.init}" />
+
 
 </aura:component>	

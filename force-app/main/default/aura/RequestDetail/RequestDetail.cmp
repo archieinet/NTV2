@@ -1,0 +1,90 @@
+<aura:component>
+
+
+    <!-- attributest -->
+    <aura:attribute name="myVal" type="String" />
+    <aura:handler name="init" value="{!this}" action="{!c.onInit}" />
+    
+    <aura:attribute name="NewCase" type="CaseService__c" default="{
+        'Account_Type__c':'', 
+        'Additional_Details__c':'', 
+        'Client__c':'', 
+        'From_Account__c':'',  
+        'Funding_Amount__c':'', 
+        'Funding_Type__c':'', 
+        'Priority__c':'', 
+        'Request_Type__c':'', 
+        'To_Account__c':'', 
+        'Transfer_Amount__c':''
+    }" />
+
+    <!-- resister event -->
+    
+
+    <!-- trust investment -->
+    <aura:if isTrue="true">
+        <p class="slds-page-header__title" title="Trust &amp; Investment Onboarding">
+            Trust &amp; Investment Onboarding
+        </p>
+        <lightning:Select aura:id="AccType" name="selAccType" label="Account Type">
+            <!-- onchange="{!c.onSelected}" -->
+            <option value="">Choose one...</option>
+            <aura:iteration items="{!v.AcctPickList}" var="acct">
+                <option value="{!acct}" text="{!acct}"></option>
+            </aura:iteration>
+        </lightning:Select>
+        <lightning:Select aura:id="FundType" name="selFundType" label="Fund Type">
+            <!-- onchange="{!c.onSelected}" -->
+            <option value="">Choose one...</option>
+            <aura:iteration items="{!v.FundPickList}" var="fund">
+                <option value="{!fund}" text="{!fund}"></option>
+            </aura:iteration>
+        </lightning:Select>
+        <lightning:input type="number" name="fundingAmount" label="Funding Amount" 
+            formatter="currency" aura:id="FundingAmount"
+            placeholder="1,000,000.00" value="{!c.NewCase.Funding_Amount__c}" />
+    </aura:if>
+    
+    
+    <!-- Money -->
+    <aura:if istrue="false">
+        <p class="slds-page-header__title" title="Trust &amp; Investment Onboarding">
+            Money Movement
+        </p>
+        <div class="slds-form-element">
+            <lightning:input type="text" name="fromAccount" label="From Account" aura:id="FromAccount" value="{!v.NewCase.From_Account__c}" />
+        </div>
+
+        <div class="slds-form-element">
+            <lightning:input type="text" name="toAccount" label="To Account" aura:id="ToAccount" value="{!v.NewCase.To_Account__c}" />
+        </div>
+
+    </aura:if>
+
+    <section class="sec-addition">
+        <lightning:Select aura:id="Priority" name="selPriority" label="Priority">
+            <option value="">Choose one...</option>
+            <aura:iteration items="{!v.PriorityList}" var="pick">
+                <option value="{!pick}" text="{!pick}"></option>
+            </aura:iteration>
+        </lightning:Select>
+
+        <div class="slds-form-element">
+            <label class="slds-form-element__label" for="AdditDetail">Additional Details</label>
+            <lightning:inputRichText value="{!v.myVal}" placeholder="Type something interesting" />
+            <h1 class="slds-m-top_large slds-text-heading_medium">Output</h1>
+        </div>
+        <div class="slds-form-element">
+            <lightning:input aura:id="file" type="file" label="Attachment" multiple="true" accept="image/png, .zip"
+                onchange="{! c.handleFilesChange }" />
+        </div>
+        <br />
+        <lightning:button aura:id="button" label="Go Back" onclick="{!c.goBack}" />
+        <lightning:button aura:id="button" label="Submit Request" onclick="{!c.saveData}" />
+        <lightning:button aura:id="button" label="Cancel" onclick="{!c.goBack}" />
+
+
+    </section>
+
+
+</aura:component>

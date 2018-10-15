@@ -55,9 +55,10 @@
     <enableStreamingApi>true</enableStreamingApi>
     <label>CaseService</label>
     <nameField>
+        <displayFormat>CS-{00000000}</displayFormat>
         <label>ServiceRequest Name</label>
         <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
+        <type>AutoNumber</type>
     </nameField>
     <pluralLabel>CaseService</pluralLabel>
     <searchLayouts/>

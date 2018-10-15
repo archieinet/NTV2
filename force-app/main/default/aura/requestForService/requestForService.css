@@ -1,0 +1,23 @@
+.THIS.sel-rec-type {
+    padding-top: 10px;
+}
+
+.THIS .slds-card__body{
+	padding:15px;
+}
+
+.THIS .slds-form-element{
+	margin-bottom: 15px;
+}
+
+.THIS .ql-align-right {
+	text-align: right;
+}
+
+.THIS .ql-align-center {
+	text-align: center;
+}
+
+.THIS .ql-font-serif {
+	font-family: serif;
+}

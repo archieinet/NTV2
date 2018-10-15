@@ -1,10 +1,10 @@
 public with sharing class CaseServiceController {
 
     public class CSWrapper{
-        @AuraEnabled public List<String> plReqType;
-        @AuraEnabled public List<String> plAcctType;//Account_Type__c
-        @AuraEnabled public List<String> plFundype;//Funding_Type__c
-        @AuraEnabled public List<String> plPriorityType;//Priority_Type__c   
+        @AuraEnabled public List<string> plReqType;
+        @AuraEnabled public List<string> plAcctType;//Account_Type__c
+        @AuraEnabled public List<string> plFundype;//Funding_Type__c
+        @AuraEnabled public List<string> plPriorityType;//Priority_Type__c   
     }
 
      

@@ -1,10 +1,10 @@
-<aura:event type="COMPONENT" description="Event template">
+<aura:event type="APPLICATION" description="dropdown lists">
+
     <aura:attribute name="eplReqType" type="string" />
-    <aura:attribute name="eplAcctType" type="string" />
-    <aura:attribute name="eplFundype" type="string" />
-    <aura:attribute name="eplPriorityType" type="string" />
-    <aura:attribute name="eFundingAmount" type="double" />
-    <aura:attribute name="eFromAccount" type="string" />
-    <aura:attribute name="eToAccount" type="string" />
-    <aura:attribute name="eTransferAmount" type="double" />
+    <aura:attribute name="eplAcctType" type="string[]" />
+    <aura:attribute name="eplFundype" type="string[]" />
+    <aura:attribute name="eplPriorityType" type="string[]" />
+
+    <aura:attribute name="reqTypeSelected" type="boolean" default="false" />
+
 </aura:event>

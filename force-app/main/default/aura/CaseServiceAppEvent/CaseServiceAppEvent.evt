@@ -1,3 +1,8 @@
 <aura:event type="APPLICATION" description="Event template">
+    <aura:attribute name="eplReqType" type="string" />
+    <aura:attribute name="eplAcctType" type="string[]" />
+    <aura:attribute name="eplFundype" type="string[]" />
+    <aura:attribute name="eplPriorityType" type="string[]" />
 
+    <aura:attribute name="reqTypeSelected" type="boolean" default="false" />
 </aura:event>

@@ -19,8 +19,10 @@
     }" />
 
     <!-- resister event -->
-    
-
+    <aura:handler event="c:CaseServiceAppEvent" action="{!c.requestedType}" />
+    <aura:attribute name="AcctPickList" type="string[]" />
+    <aura:attribute name="FundPickList" type="string[]" />
+    <aura:attribute name="PriorityList" type="string[]" />
     <!-- trust investment -->
     <aura:if isTrue="true">
         <p class="slds-page-header__title" title="Trust &amp; Investment Onboarding">

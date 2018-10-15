@@ -5,14 +5,18 @@
             let state = resp.getState();
             if (cmp.isValid() && state === "SUCCESS") {
                 let {plReqType, plAcctType, plFundype, plPriorityType} = resp.getReturnValue();
-                let evtType = cmp.getEvent("cmdEvt");
+                // let evtType = cmp.getEvent("appEvt");
+                sessionStorage.setItem("eplAcctType", plAcctType);
+                sessionStorage.setItem("eplFundype", plFundype);
+                sessionStorage.setItem("eplPriorityType", plPriorityType);
                 cmp.set("v.ReqTypeList", plReqType);
-                evtType.setParams({
-                    "eplAcctType": plAcctType,
-                    "eplFundype": plFundype,
-                    "eplPriorityType": plPriorityType
-                });
-                evtType.fire();
+
+                // evtType.setParams({
+                //     "eplAcctType": plAcctType,
+                //     "eplFundype": plFundype,
+                //     "eplPriorityType": plPriorityType
+                // });
+                // evtType.fire();
 
              }
         });

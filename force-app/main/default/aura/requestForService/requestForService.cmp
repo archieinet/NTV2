@@ -1,7 +1,7 @@
 <aura:component implements="force:appHostable,force:hasRecordId,flexipage:availableForAllPageTypes" controller="CaseServiceController">
 
     <!-- evt -->
-    <aura:RegisterEvent name="cmdEvt" type="c:CaseServiceAppEvent" />
+    <aura:RegisterEvent name="appEvt" type="c:CaseServiceAppEvent" />
     <aura:handler name="init" value="{!this}" action="{!c.init}" />
 
     <!-- attributest -->

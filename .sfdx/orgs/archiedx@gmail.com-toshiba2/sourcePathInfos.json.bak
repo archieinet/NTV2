@@ -50,13 +50,12 @@
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1539557006022,
-            "changeTime": 1539557006022,
-            "contentHash": "19af566f23fde664e6041fe8b2009281a28cf286",
+            "modifiedTime": 1539622942638,
+            "changeTime": 1539622942638,
+            "contentHash": "af48c89567bea1fa58d86098fb17b9890611c1cd",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -79,14 +78,13 @@
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceAppEvent\\CaseServiceAppEvent.evt",
             "isDirectory": false,
-            "size": 79,
-            "modifiedTime": 1539531651276,
-            "changeTime": 1539531651276,
-            "contentHash": "04f1d5463dda85b4fcf3d46ce4d1dfca35f97ac0",
+            "size": 393,
+            "modifiedTime": 1539622856433,
+            "changeTime": 1539622856433,
+            "contentHash": "b0a8eaa669acb81a45f653686559a61fef1d1d8f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -105,14 +103,14 @@
         }
     ],
     [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent",
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger",
         {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent",
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1539531651285,
-            "changeTime": 1539531651285,
-            "contentHash": "efa6886b191295bb2c819d45e6dc278635e32c63",
+            "modifiedTime": 1539556099473,
+            "changeTime": 1539556099473,
+            "contentHash": "a31ca6718f214ca4e8d71bf06297c786e43eddc1",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -120,30 +118,267 @@
         }
     ],
     [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent\\CaseServiceCompEvent.evt",
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.app",
         {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent\\CaseServiceCompEvent.evt",
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.app",
             "isDirectory": false,
-            "size": 397,
-            "modifiedTime": 1539571034415,
-            "changeTime": 1539571034415,
-            "contentHash": "8e46bbbeb50148adf905835d7043ee94098d9add",
+            "size": 402,
+            "modifiedTime": 1539623673075,
+            "changeTime": 1539623673075,
+            "contentHash": "e883bb24c9978ac1964c3b76d1fe5cfde6e1b6e6",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent\\CaseServiceCompEvent.evt-meta.xml",
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.app-meta.xml",
         {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceCompEvent\\CaseServiceCompEvent.evt-meta.xml",
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.app-meta.xml",
             "isDirectory": false,
-            "size": 253,
-            "modifiedTime": 1539531651286,
-            "changeTime": 1539531651286,
-            "contentHash": "1df139b27df4ec285e81df44bd0f80a665484189",
+            "size": 230,
+            "modifiedTime": 1539556099448,
+            "changeTime": 1539556099448,
+            "contentHash": "b732c7cc1dfc5c46f439cb610f149119005435f5",
             "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.auradoc",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1539553303211,
+            "changeTime": 1539553303211,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.css",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.css",
+            "isDirectory": false,
+            "size": 13,
+            "modifiedTime": 1539559970518,
+            "changeTime": 1539559970518,
+            "contentHash": "fa8a9f1ef26db24f72e99db3e14132c8482a913f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.svg",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1539553303210,
+            "changeTime": 1539553303210,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerController.js",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerController.js",
+            "isDirectory": false,
+            "size": 135,
+            "modifiedTime": 1539570765113,
+            "changeTime": 1539570765113,
+            "contentHash": "4a58c57532b8587ad56f96deb6c98dc86e8218ad",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerHelper.js",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerHelper.js",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1539556099454,
+            "changeTime": 1539556099454,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerRenderer.js",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerRenderer.js",
+            "isDirectory": false,
+            "size": 49,
+            "modifiedTime": 1539556099467,
+            "changeTime": 1539556099467,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539557006038,
+            "changeTime": 1539557006038,
+            "contentHash": "59cda526a2f42cb24d5c15c023c7d82adef1e6e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.auradoc",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1539557006037,
+            "changeTime": 1539557006037,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.cmp",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.cmp",
+            "isDirectory": false,
+            "size": 3842,
+            "modifiedTime": 1539624908458,
+            "changeTime": 1539624908458,
+            "contentHash": "33f39a7830c89c8567f05b2ad458b2f619b987c8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.cmp-meta.xml",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1539557006026,
+            "changeTime": 1539557006026,
+            "contentHash": "ad114421e51c584ce365cac6c18bff0824e2e5ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.css",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1539557006031,
+            "changeTime": 1539557006031,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.design",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1539557006038,
+            "changeTime": 1539557006038,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.svg",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1539557006035,
+            "changeTime": 1539557006035,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailController.js",
+        {
+            "state": "u",
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 756,
+            "modifiedTime": 1539625101756,
+            "changeTime": 1539625101756,
+            "isWorkspace": false,
+            "contentHash": "4f6e588c95fa6e7eb21b315921c35593bfd9c7d0"
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailHelper.js",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailHelper.js",
+            "isDirectory": false,
+            "size": 152,
+            "modifiedTime": 1539557366119,
+            "changeTime": 1539557366119,
+            "contentHash": "32b7b6214c7a05cf9130127b0ca45eb84164cdf1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailRenderer.js",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1539557006033,
+            "changeTime": 1539557006033,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
@@ -185,13 +420,12 @@
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\requestForService\\requestForService.cmp",
             "isDirectory": false,
             "size": 1450,
-            "modifiedTime": 1539566929610,
-            "changeTime": 1539566929610,
-            "contentHash": "8a8cc41e2b5ea53992daffb06df50e4c9ffa862c",
+            "modifiedTime": 1539623150575,
+            "changeTime": 1539623150575,
+            "contentHash": "7332a5affb285805bda3041945908a2471d23731",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -260,13 +494,12 @@
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\requestForService\\requestForServiceController.js",
             "isDirectory": false,
             "size": 554,
-            "modifiedTime": 1539570357673,
-            "changeTime": 1539570357673,
+            "modifiedTime": 1539624274164,
+            "changeTime": 1539624274164,
             "contentHash": "1dfe8a78969e0a950c94dfe0927b3b65ce8cd90f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -274,14 +507,13 @@
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\requestForService\\requestForServiceHelper.js",
             "isDirectory": false,
-            "size": 756,
-            "modifiedTime": 1539564132617,
-            "changeTime": 1539564132617,
-            "contentHash": "47a303d93c4c51e306af2caa575c7ac9ceb6da65",
+            "size": 989,
+            "modifiedTime": 1539624374593,
+            "changeTime": 1539624374593,
+            "contentHash": "96770312f10f48b5591778c2e32d9e365f98b133",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -354,21 +586,6 @@
             "changeTime": 1539397486671,
             "contentHash": "451afde4276cf7c93fd5f7232d6a25ae7ec18d8e",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\layouts\\CaseService__c-ServiceRequest Layout.layout-meta.xml",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\layouts\\CaseService__c-ServiceRequest Layout.layout-meta.xml",
-            "isDirectory": false,
-            "size": 3366,
-            "modifiedTime": 1539397486671,
-            "changeTime": 1539397486671,
-            "contentHash": "802648d82bc3f1356e4d357f82298d4bc8f07ca3",
-            "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
@@ -585,30 +802,180 @@
         }
     ],
     [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2",
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\permissionsets",
         {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2",
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1539537620759,
-            "changeTime": 1539537620759,
-            "contentHash": "16627025378066f0a877968efd7b5aef550bd0ca",
+            "modifiedTime": 1539552061628,
+            "changeTime": 1539552061628,
+            "contentHash": "011923be3a96657734d1bebecc67571a474c8dab",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
+            "isWorkspace": false,
             "isArtifactRoot": false
         }
     ],
     [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261.resource-meta.xml",
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\permissionsets\\n0therntrust.permissionset-meta.xml",
         {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261.resource-meta.xml",
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\permissionsets\\n0therntrust.permissionset-meta.xml",
             "isDirectory": false,
-            "size": 222,
-            "modifiedTime": 1539546692226,
-            "changeTime": 1539546692226,
-            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
+            "size": 10420,
+            "modifiedTime": 1539552235356,
+            "changeTime": 1539552235356,
+            "contentHash": "b6bb757aac239feb92d7aa71855bb3c5cbf69005",
             "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546714729,
+            "changeTime": 1539546714729,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 20040,
+            "modifiedTime": 1539555326096,
+            "changeTime": 1539555326096,
+            "contentHash": "91de476e4c2f32b58363e8db9555e8eb877ae1d1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 6168,
+            "modifiedTime": 1539555326037,
+            "changeTime": 1539555326037,
+            "contentHash": "6b0467a9bc65e45371129bf2142faa6b312858fd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 6168,
+            "modifiedTime": 1539555325993,
+            "changeTime": 1539555325993,
+            "contentHash": "6b0467a9bc65e45371129bf2142faa6b312858fd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 6506,
+            "modifiedTime": 1539555326023,
+            "changeTime": 1539555326023,
+            "contentHash": "bc5670e4ffbd78a889935bc4fa37f96b641094f3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546714744,
+            "changeTime": 1539546714744,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
+            "isDirectory": false,
+            "size": 2515,
+            "modifiedTime": 1539546714745,
+            "changeTime": 1539546714745,
+            "contentHash": "a39c5ffdb3c855e2da94059adea8288f484f1db3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546699407,
+            "changeTime": 1539546699407,
+            "contentHash": "4c60bf5c748eed7cf16fe1279eadaa86f07584b3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546711180,
+            "changeTime": 1539546711180,
+            "contentHash": "8889fbb26a23ef3f81a8adda19f101557b060d06",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\fonts",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\fonts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546699444,
+            "changeTime": 1539546699444,
+            "contentHash": "44b0034b6394c2bca52840c208cd5f7df89cd9ef",
+            "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
@@ -773,6 +1140,21 @@
             "modifiedTime": 1539546699443,
             "changeTime": 1539546699443,
             "contentHash": "7234536674485f346039f59c866302b7f58dc5aa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\fonts\\webfonts",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\fonts\\webfonts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546699495,
+            "changeTime": 1539546699495,
+            "contentHash": "05c3c04a0b90d9fc9aabce41fbfeb08059884eb2",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -1013,6 +1395,36 @@
             "modifiedTime": 1539546699496,
             "changeTime": 1539546699496,
             "contentHash": "fa44deaa8b5592779c616a0ca9bbcf2cf1976c64",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546710944,
+            "changeTime": 1539546710944,
+            "contentHash": "1b2cf37219d188e7ff768593d5423c2831f8752b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546701616,
+            "changeTime": 1539546701616,
+            "contentHash": "fda34f446ada6dd7aa5dfe299f8c45b900a69df8",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -9255,6 +9667,36 @@
         }
     ],
     [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action-sprite",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action-sprite",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546701620,
+            "changeTime": 1539546701620,
+            "contentHash": "8feba646ff77902da62b0ac893afba9021ca7b1b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action-sprite\\svg",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action-sprite\\svg",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546701622,
+            "changeTime": 1539546701622,
+            "contentHash": "4aed7506185a1bbc1b565268ca8f7c84ca257349",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action-sprite\\svg\\symbols.svg",
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action-sprite\\svg\\symbols.svg",
@@ -9263,6 +9705,21 @@
             "modifiedTime": 1539546701623,
             "changeTime": 1539546701623,
             "contentHash": "0e51447b3d1a307763bf3f3066bf801b33ffc6e2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546703549,
+            "changeTime": 1539546703549,
+            "contentHash": "c1b0a66b80b0968d5f1faba22ba26921db9a379d",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -14355,6 +14812,36 @@
         }
     ],
     [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom-sprite",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom-sprite",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546703555,
+            "changeTime": 1539546703555,
+            "contentHash": "8feba646ff77902da62b0ac893afba9021ca7b1b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom-sprite\\svg",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom-sprite\\svg",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546703558,
+            "changeTime": 1539546703558,
+            "contentHash": "4aed7506185a1bbc1b565268ca8f7c84ca257349",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom-sprite\\svg\\symbols.svg",
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom-sprite\\svg\\symbols.svg",
@@ -14363,6 +14850,21 @@
             "modifiedTime": 1539546703560,
             "changeTime": 1539546703560,
             "contentHash": "dc94ca1bc85c7763e8b148de0056b0b43f713287",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546704247,
+            "changeTime": 1539546704247,
+            "contentHash": "2c0d803aadaf1ebaba3d7320d18ec7d118905631",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -16170,6 +16672,36 @@
         }
     ],
     [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype-sprite",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype-sprite",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546704254,
+            "changeTime": 1539546704254,
+            "contentHash": "8feba646ff77902da62b0ac893afba9021ca7b1b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype-sprite\\svg",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype-sprite\\svg",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546704257,
+            "changeTime": 1539546704257,
+            "contentHash": "4aed7506185a1bbc1b565268ca8f7c84ca257349",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype-sprite\\svg\\symbols.svg",
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype-sprite\\svg\\symbols.svg",
@@ -16208,6 +16740,21 @@
             "modifiedTime": 1539546704294,
             "changeTime": 1539546704294,
             "contentHash": "ef1d930434662a18d4246c7bef6f856380eddb2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546707905,
+            "changeTime": 1539546707905,
+            "contentHash": "c5aec33f590edbf1d2d338c7e1b45047184ac019",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -24720,6 +25267,36 @@
         }
     ],
     [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard-sprite",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard-sprite",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546707908,
+            "changeTime": 1539546707908,
+            "contentHash": "8feba646ff77902da62b0ac893afba9021ca7b1b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard-sprite\\svg",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard-sprite\\svg",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546707910,
+            "changeTime": 1539546707910,
+            "contentHash": "4aed7506185a1bbc1b565268ca8f7c84ca257349",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard-sprite\\svg\\symbols.svg",
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard-sprite\\svg\\symbols.svg",
@@ -24728,6 +25305,21 @@
             "modifiedTime": 1539546707911,
             "changeTime": 1539546707911,
             "contentHash": "b28ea3955eb0eed672f76a18a608dc58a7318a19",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546710941,
+            "changeTime": 1539546710941,
+            "contentHash": "8a7be263399d90b718bd604e2dda04c237f69877",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -38190,6 +38782,36 @@
         }
     ],
     [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility-sprite",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility-sprite",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546710947,
+            "changeTime": 1539546710947,
+            "contentHash": "8feba646ff77902da62b0ac893afba9021ca7b1b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility-sprite\\svg",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility-sprite\\svg",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546710950,
+            "changeTime": 1539546710950,
+            "contentHash": "4aed7506185a1bbc1b565268ca8f7c84ca257349",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility-sprite\\svg\\symbols.svg",
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility-sprite\\svg\\symbols.svg",
@@ -38198,6 +38820,21 @@
             "modifiedTime": 1539546710952,
             "changeTime": 1539546710952,
             "contentHash": "5f02801dc52b452f3287cc4066007521314ed83f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546711168,
+            "changeTime": 1539546711168,
+            "contentHash": "01c52d3956189be5948169d079378339eb4ab803",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -38250,6 +38887,21 @@
         }
     ],
     [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\carousel",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\carousel",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546710969,
+            "changeTime": 1539546710969,
+            "contentHash": "ca1ff47d9d7778cf8895081697982f42f5b9da21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\carousel\\carousel-01.jpg",
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\carousel\\carousel-01.jpg",
@@ -38295,6 +38947,21 @@
         }
     ],
     [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\einstein-headers",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\einstein-headers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546710976,
+            "changeTime": 1539546710976,
+            "contentHash": "445e6f421264bd400ade950ec970a74eeab233d2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\einstein-headers\\einstein-figure.svg",
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\einstein-headers\\einstein-figure.svg",
@@ -38318,6 +38985,21 @@
             "modifiedTime": 1539546710976,
             "changeTime": 1539546710976,
             "contentHash": "1ce8687ba06e67aeb46b2005b801bd4102be17b8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\illustrations",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\illustrations",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546710988,
+            "changeTime": 1539546710988,
+            "contentHash": "ae72ec4aa0370ba3674dadf08bdc91493d001c43",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -38415,6 +39097,21 @@
         }
     ],
     [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\popovers",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\popovers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546711006,
+            "changeTime": 1539546711006,
+            "contentHash": "f375fdc2d7c0cf7baf1f8288a9aad380ea826e75",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\popovers\\popover-action.png",
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\popovers\\popover-action.png",
@@ -38490,6 +39187,21 @@
         }
     ],
     [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\spinners",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\spinners",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546711022,
+            "changeTime": 1539546711022,
+            "contentHash": "80ab282e19cd46fff13027faf2c59a7f8d42532c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\spinners\\slds_spinner.gif",
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\spinners\\slds_spinner.gif",
@@ -38528,6 +39240,36 @@
             "modifiedTime": 1539546711023,
             "changeTime": 1539546711023,
             "contentHash": "758db220974402c9e10b5b676686a2f4249cc324",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546711107,
+            "changeTime": 1539546711107,
+            "contentHash": "26101e19d4c2a35efa0800921c322e0549e39b84",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes\\classic",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes\\classic",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546711104,
+            "changeTime": 1539546711104,
+            "contentHash": "4f6727fa7c7ee783087711315c95bd0691c7781d",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -38708,6 +39450,21 @@
             "modifiedTime": 1539546711105,
             "changeTime": 1539546711105,
             "contentHash": "719de9b88e4a83e2c8c91a590ac0e7f641008f8d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes\\oneSalesforce",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes\\oneSalesforce",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546711165,
+            "changeTime": 1539546711165,
+            "contentHash": "9ddc988fbbf01f56ffa3dec16624d8919f002c49",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -38910,6 +39667,21 @@
         }
     ],
     [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\welcome-mat",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\welcome-mat",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546711173,
+            "changeTime": 1539546711173,
+            "contentHash": "cbb59cd0a2264d8c43c514ae810bbc39788d1ceb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\welcome-mat\\bg-info@2x.png",
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\welcome-mat\\bg-info@2x.png",
@@ -38970,6 +39742,21 @@
         }
     ],
     [
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\styles",
+        {
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\styles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539546711205,
+            "changeTime": 1539546711205,
+            "contentHash": "b55f04caa888e2a0a1248854ee0fab7b952729a7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\styles\\salesforce-lightning-design-system.css",
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\styles\\salesforce-lightning-design-system.css",
@@ -39000,555 +39787,15 @@
         }
     ],
     [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\tabs\\Case_Service_Request.tab-meta.xml",
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261.resource-meta.xml",
         {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\tabs\\Case_Service_Request.tab-meta.xml",
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261.resource-meta.xml",
             "isDirectory": false,
-            "size": 276,
-            "modifiedTime": 1539546714675,
-            "changeTime": 1539546714675,
-            "contentHash": "eb7fa16bdcb9a1470dcde862cc36af21a2073126",
+            "size": 222,
+            "modifiedTime": 1539546692226,
+            "changeTime": 1539546692226,
+            "contentHash": "2a135e336ba8b6bc150d4e94f6abb174d496a0f4",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 6168,
-            "modifiedTime": 1539555325993,
-            "changeTime": 1539555325993,
-            "contentHash": "6b0467a9bc65e45371129bf2142faa6b312858fd",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 6506,
-            "modifiedTime": 1539555326023,
-            "changeTime": 1539555326023,
-            "contentHash": "bc5670e4ffbd78a889935bc4fa37f96b641094f3",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
-            "isDirectory": false,
-            "size": 6168,
-            "modifiedTime": 1539555326037,
-            "changeTime": 1539555326037,
-            "contentHash": "6b0467a9bc65e45371129bf2142faa6b312858fd",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
-            "isDirectory": false,
-            "size": 20040,
-            "modifiedTime": 1539555326096,
-            "changeTime": 1539555326096,
-            "contentHash": "91de476e4c2f32b58363e8db9555e8eb877ae1d1",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
-            "isDirectory": false,
-            "size": 2515,
-            "modifiedTime": 1539546714745,
-            "changeTime": 1539546714745,
-            "contentHash": "a39c5ffdb3c855e2da94059adea8288f484f1db3",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546699407,
-            "changeTime": 1539546699407,
-            "contentHash": "4c60bf5c748eed7cf16fe1279eadaa86f07584b3",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\fonts",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\fonts",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546699444,
-            "changeTime": 1539546699444,
-            "contentHash": "44b0034b6394c2bca52840c208cd5f7df89cd9ef",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546711180,
-            "changeTime": 1539546711180,
-            "contentHash": "8889fbb26a23ef3f81a8adda19f101557b060d06",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\fonts\\webfonts",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\fonts\\webfonts",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546699495,
-            "changeTime": 1539546699495,
-            "contentHash": "05c3c04a0b90d9fc9aabce41fbfeb08059884eb2",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546701616,
-            "changeTime": 1539546701616,
-            "contentHash": "fda34f446ada6dd7aa5dfe299f8c45b900a69df8",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546710944,
-            "changeTime": 1539546710944,
-            "contentHash": "1b2cf37219d188e7ff768593d5423c2831f8752b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action-sprite\\svg",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action-sprite\\svg",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546701622,
-            "changeTime": 1539546701622,
-            "contentHash": "4aed7506185a1bbc1b565268ca8f7c84ca257349",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action-sprite",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\action-sprite",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546701620,
-            "changeTime": 1539546701620,
-            "contentHash": "8feba646ff77902da62b0ac893afba9021ca7b1b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546703549,
-            "changeTime": 1539546703549,
-            "contentHash": "c1b0a66b80b0968d5f1faba22ba26921db9a379d",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom-sprite\\svg",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom-sprite\\svg",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546703558,
-            "changeTime": 1539546703558,
-            "contentHash": "4aed7506185a1bbc1b565268ca8f7c84ca257349",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom-sprite",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\custom-sprite",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546703555,
-            "changeTime": 1539546703555,
-            "contentHash": "8feba646ff77902da62b0ac893afba9021ca7b1b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546704247,
-            "changeTime": 1539546704247,
-            "contentHash": "2c0d803aadaf1ebaba3d7320d18ec7d118905631",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype-sprite\\svg",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype-sprite\\svg",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546704257,
-            "changeTime": 1539546704257,
-            "contentHash": "4aed7506185a1bbc1b565268ca8f7c84ca257349",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype-sprite",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\doctype-sprite",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546704254,
-            "changeTime": 1539546704254,
-            "contentHash": "8feba646ff77902da62b0ac893afba9021ca7b1b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546707905,
-            "changeTime": 1539546707905,
-            "contentHash": "c5aec33f590edbf1d2d338c7e1b45047184ac019",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard-sprite\\svg",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard-sprite\\svg",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546707910,
-            "changeTime": 1539546707910,
-            "contentHash": "4aed7506185a1bbc1b565268ca8f7c84ca257349",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard-sprite",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\standard-sprite",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546707908,
-            "changeTime": 1539546707908,
-            "contentHash": "8feba646ff77902da62b0ac893afba9021ca7b1b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546710941,
-            "changeTime": 1539546710941,
-            "contentHash": "8a7be263399d90b718bd604e2dda04c237f69877",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility-sprite\\svg",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility-sprite\\svg",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546710950,
-            "changeTime": 1539546710950,
-            "contentHash": "4aed7506185a1bbc1b565268ca8f7c84ca257349",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility-sprite",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\icons\\utility-sprite",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546710947,
-            "changeTime": 1539546710947,
-            "contentHash": "8feba646ff77902da62b0ac893afba9021ca7b1b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546711168,
-            "changeTime": 1539546711168,
-            "contentHash": "01c52d3956189be5948169d079378339eb4ab803",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\carousel",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\carousel",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546710969,
-            "changeTime": 1539546710969,
-            "contentHash": "ca1ff47d9d7778cf8895081697982f42f5b9da21",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\einstein-headers",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\einstein-headers",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546710976,
-            "changeTime": 1539546710976,
-            "contentHash": "445e6f421264bd400ade950ec970a74eeab233d2",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\illustrations",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\illustrations",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546710988,
-            "changeTime": 1539546710988,
-            "contentHash": "ae72ec4aa0370ba3674dadf08bdc91493d001c43",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\popovers",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\popovers",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546711006,
-            "changeTime": 1539546711006,
-            "contentHash": "f375fdc2d7c0cf7baf1f8288a9aad380ea826e75",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\spinners",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\spinners",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546711022,
-            "changeTime": 1539546711022,
-            "contentHash": "80ab282e19cd46fff13027faf2c59a7f8d42532c",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes\\classic",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes\\classic",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546711104,
-            "changeTime": 1539546711104,
-            "contentHash": "4f6727fa7c7ee783087711315c95bd0691c7781d",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546711107,
-            "changeTime": 1539546711107,
-            "contentHash": "26101e19d4c2a35efa0800921c322e0549e39b84",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes\\oneSalesforce",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\themes\\oneSalesforce",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546711165,
-            "changeTime": 1539546711165,
-            "contentHash": "9ddc988fbbf01f56ffa3dec16624d8919f002c49",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\welcome-mat",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\images\\welcome-mat",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546711173,
-            "changeTime": 1539546711173,
-            "contentHash": "cbb59cd0a2264d8c43c514ae810bbc39788d1ceb",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\styles",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\staticresources\\SLDS261\\styles",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546711205,
-            "changeTime": 1539546711205,
-            "contentHash": "b55f04caa888e2a0a1248854ee0fab7b952729a7",
-            "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
@@ -39570,59 +39817,14 @@
         }
     ],
     [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles",
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\tabs\\Case_Service_Request.tab-meta.xml",
         {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\profiles",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546714729,
-            "changeTime": 1539546714729,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\settings",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\settings",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539546714744,
-            "changeTime": 1539546714744,
-            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\permissionsets",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\permissionsets",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539552061628,
-            "changeTime": 1539552061628,
-            "contentHash": "011923be3a96657734d1bebecc67571a474c8dab",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\permissionsets\\n0therntrust.permissionset-meta.xml",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\permissionsets\\n0therntrust.permissionset-meta.xml",
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\tabs\\Case_Service_Request.tab-meta.xml",
             "isDirectory": false,
-            "size": 10420,
-            "modifiedTime": 1539552235356,
-            "changeTime": 1539552235356,
-            "contentHash": "b6bb757aac239feb92d7aa71855bb3c5cbf69005",
+            "size": 276,
+            "modifiedTime": 1539546714675,
+            "changeTime": 1539546714675,
+            "contentHash": "eb7fa16bdcb9a1470dcde862cc36af21a2073126",
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -39630,286 +39832,17 @@
         }
     ],
     [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger",
+        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2",
         {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger",
+            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1539556099473,
-            "changeTime": 1539556099473,
-            "contentHash": "a31ca6718f214ca4e8d71bf06297c786e43eddc1",
+            "modifiedTime": 1539537620759,
+            "changeTime": 1539537620759,
+            "contentHash": "16627025378066f0a877968efd7b5aef550bd0ca",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.app",
-        {
-            "state": "u",
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.app",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 463,
-            "modifiedTime": 1539571576414,
-            "changeTime": 1539571576414,
-            "isWorkspace": false,
-            "contentHash": "45f17684c5e74c37a771d190bda02729c83a4694"
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.app-meta.xml",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.app-meta.xml",
-            "isDirectory": false,
-            "size": 230,
-            "modifiedTime": 1539556099448,
-            "changeTime": 1539556099448,
-            "contentHash": "b732c7cc1dfc5c46f439cb610f149119005435f5",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.auradoc",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.auradoc",
-            "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1539553303211,
-            "changeTime": 1539553303211,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.css",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.css",
-            "isDirectory": false,
-            "size": 13,
-            "modifiedTime": 1539559970518,
-            "changeTime": 1539559970518,
-            "contentHash": "fa8a9f1ef26db24f72e99db3e14132c8482a913f",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.svg",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.svg",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1539553303210,
-            "changeTime": 1539553303210,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerController.js",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerController.js",
-            "isDirectory": false,
-            "size": 135,
-            "modifiedTime": 1539570765113,
-            "changeTime": 1539570765113,
-            "contentHash": "4a58c57532b8587ad56f96deb6c98dc86e8218ad",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerHelper.js",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerHelper.js",
-            "isDirectory": false,
-            "size": 44,
-            "modifiedTime": 1539556099454,
-            "changeTime": 1539556099454,
-            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerRenderer.js",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerRenderer.js",
-            "isDirectory": false,
-            "size": 49,
-            "modifiedTime": 1539556099467,
-            "changeTime": 1539556099467,
-            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail",
-            "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1539557006038,
-            "changeTime": 1539557006038,
-            "contentHash": "59cda526a2f42cb24d5c15c023c7d82adef1e6e1",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.auradoc",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.auradoc",
-            "isDirectory": false,
-            "size": 209,
-            "modifiedTime": 1539557006037,
-            "changeTime": 1539557006037,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.cmp",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.cmp",
-            "isDirectory": false,
-            "size": 3592,
-            "modifiedTime": 1539571451553,
-            "changeTime": 1539567421078,
-            "contentHash": "6438f5ee02c4b00cea4d75d49557d87c85225a47",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.cmp-meta.xml",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 245,
-            "modifiedTime": 1539557006026,
-            "changeTime": 1539557006026,
-            "contentHash": "ad114421e51c584ce365cac6c18bff0824e2e5ca",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.css",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.css",
-            "isDirectory": false,
-            "size": 10,
-            "modifiedTime": 1539557006031,
-            "changeTime": 1539557006031,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.design",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.design",
-            "isDirectory": false,
-            "size": 40,
-            "modifiedTime": 1539557006038,
-            "changeTime": 1539557006038,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.svg",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.svg",
-            "isDirectory": false,
-            "size": 661,
-            "modifiedTime": 1539557006035,
-            "changeTime": 1539557006035,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailController.js",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailController.js",
-            "isDirectory": false,
-            "size": 341,
-            "modifiedTime": 1539567773012,
-            "changeTime": 1539567773012,
-            "contentHash": "6eccf896331df85ef5b56367c57f5c1f6049e66c",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailHelper.js",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailHelper.js",
-            "isDirectory": false,
-            "size": 152,
-            "modifiedTime": 1539557366119,
-            "changeTime": 1539557366119,
-            "contentHash": "32b7b6214c7a05cf9130127b0ca45eb84164cdf1",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailRenderer.js",
-        {
-            "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1539557006033,
-            "changeTime": 1539557006033,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
+            "isWorkspace": true,
             "isArtifactRoot": false
         }
     ]

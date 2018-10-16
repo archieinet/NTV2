@@ -124,11 +124,11 @@
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.app",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 477,
-            "modifiedTime": 1539625430830,
-            "changeTime": 1539625430830,
+            "size": 779,
+            "modifiedTime": 1539629776150,
+            "changeTime": 1539629776150,
             "isWorkspace": false,
-            "contentHash": "a22f8b47e9bd4776feffeb378ca68e741052ce07"
+            "contentHash": "22094748f38cfd9832acf9c990146db3035ae203"
         }
     ],
     [
@@ -194,15 +194,15 @@
     [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerController.js",
         {
-            "state": "u",
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 229,
             "modifiedTime": 1539625405919,
             "changeTime": 1539625405919,
-            "isWorkspace": false,
-            "contentHash": "84fa077daa360d4414d21f33f0b3e99592de7a7b"
+            "contentHash": "84fa077daa360d4414d21f33f0b3e99592de7a7b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -270,10 +270,10 @@
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.cmp",
             "isDirectory": false,
-            "size": 3842,
-            "modifiedTime": 1539624908458,
-            "changeTime": 1539624908458,
-            "contentHash": "33f39a7830c89c8567f05b2ad458b2f619b987c8",
+            "size": 3961,
+            "modifiedTime": 1539628175922,
+            "changeTime": 1539628175922,
+            "contentHash": "85d85802a327206ba88ebd9eb73c0e4bb53b60fa",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false

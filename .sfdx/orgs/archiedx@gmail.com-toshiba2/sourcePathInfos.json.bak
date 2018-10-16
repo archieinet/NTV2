@@ -120,15 +120,15 @@
     [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.app",
         {
+            "state": "u",
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLogger.app",
             "isDirectory": false,
-            "size": 402,
-            "modifiedTime": 1539623673075,
-            "changeTime": 1539623673075,
-            "contentHash": "e883bb24c9978ac1964c3b76d1fe5cfde6e1b6e6",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 791,
+            "modifiedTime": 1539629429024,
+            "changeTime": 1539629429024,
+            "isWorkspace": false,
+            "contentHash": "86ab54c7280b49699355667bdbe45216f08c635a"
         }
     ],
     [
@@ -196,14 +196,13 @@
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\CaseServiceLogger\\CaseServiceLoggerController.js",
             "isDirectory": false,
-            "size": 135,
-            "modifiedTime": 1539570765113,
-            "changeTime": 1539570765113,
-            "contentHash": "4a58c57532b8587ad56f96deb6c98dc86e8218ad",
+            "size": 229,
+            "modifiedTime": 1539625405919,
+            "changeTime": 1539625405919,
+            "contentHash": "84fa077daa360d4414d21f33f0b3e99592de7a7b",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -271,10 +270,10 @@
         {
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetail.cmp",
             "isDirectory": false,
-            "size": 3842,
-            "modifiedTime": 1539624908458,
-            "changeTime": 1539624908458,
-            "contentHash": "33f39a7830c89c8567f05b2ad458b2f619b987c8",
+            "size": 3961,
+            "modifiedTime": 1539628175922,
+            "changeTime": 1539628175922,
+            "contentHash": "85d85802a327206ba88ebd9eb73c0e4bb53b60fa",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -343,15 +342,15 @@
     [
         "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailController.js",
         {
-            "state": "u",
             "sourcePath": "Z:\\archie\\Documents\\vs-git\\Salesforce-DX\\N0thernTrustV2\\force-app\\main\\default\\aura\\RequestDetail\\RequestDetailController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 756,
             "modifiedTime": 1539625101756,
             "changeTime": 1539625101756,
-            "isWorkspace": false,
-            "contentHash": "4f6e588c95fa6e7eb21b315921c35593bfd9c7d0"
+            "contentHash": "4f6e588c95fa6e7eb21b315921c35593bfd9c7d0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [

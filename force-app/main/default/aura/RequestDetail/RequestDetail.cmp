@@ -1,4 +1,4 @@
-<aura:component>
+<aura:component implements="force:appHostable,force:hasRecordId,flexipage:availableForAllPageTypes" controller="CaseServiceController">
 
 
     <!-- attributest -->
